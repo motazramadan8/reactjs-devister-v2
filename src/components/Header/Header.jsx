@@ -101,7 +101,7 @@ const Header = ({ active }) => {
         <div className="flex text-textColor items-center">
           <Typography as="a" href="/" className="py-1.5">
             <img
-              src="/src/assets/images/Logo.PNG"
+              src="../../assets/images/Logo.png"
               alt="logo"
               className="max-w-[35px] mr-3"
             />
